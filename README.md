@@ -1,4 +1,4 @@
-Studied pure math at Berkeley. Had literature/music theory/plastic arts obsession before I knew that proof-based math was a thing.
+Studied pure math at Berkeley. Had literature/music theory/plastic arts obsession.
 
 Current: Turned down offer and stopped recruiting with the aim to instead find work in creative AI space through open source contributions. 
 
