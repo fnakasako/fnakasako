@@ -13,6 +13,6 @@ I think about language and art, and its intersection with AI a lot.
 
 My interests include:
 
-- Personality/allignment (working on full research proposal for OpenAI safety research)
+- Personality/allignment (working on full proposal for OpenAI safety research)
 - Low level ML infra, MLOps, distributed training
 - UI/UX/design
