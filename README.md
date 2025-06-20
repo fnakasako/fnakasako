@@ -2,7 +2,7 @@ Studied pure math at Berkeley. Had literature/music theory/plastic arts obsessio
 
 Current: Turned down offer and stopped recruiting with the aim to instead find work in creative AI space through open source contributions. 
 
-This is better alligned with my long term goal of building intuitive GUIs that facilitaet the use of AI/ML for generating high quality art (in a way that preserves agency)
+This is better alligned with my long term goal of building intuitive GUIs that facilitate the use of AI/ML for generating high quality art (in a way that preserves agency)
 
 
 Realism is overrated and should make concessions to adult animation (Masaaki, Oshii, Ghibli, etc), which is stigmatized due to disney and commoditization of Japanese culture.
