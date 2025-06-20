@@ -1,16 +1,18 @@
-## Hi there 👋
+Studied pure math at Berkeley. Had literature/music theory/plastic arts obsession before I knew that proof-based math was a thing.
 
-<!--
-**fnakasako/fnakasako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current: Turned down offer and stopped recruiting with the aim to instead find work in creative AI space through open source contributions. 
 
-Here are some ideas to get you started:
+This is better alligned with my long term goal of building intuitive GUIs that facilitaet the use of AI/ML for generating high quality art (in a way that preserves agency)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Realism is overrated and should make concessions to adult animation (Masaaki, Oshii, Ghibli, etc), which is stigmatized due to disney and commoditization of Japanese culture.
+I think about language and art, and its intersection with AI a lot. 
+
+
+
+
+My interests include:
+
+- Personality/allignment (working on full research proposal for OpenAI safety research)
+- Low level ML infra, MLOps, distributed training
+- UI/UX/design
